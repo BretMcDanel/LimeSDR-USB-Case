@@ -9,7 +9,7 @@ I wanted protection and some shielding for my LimeSDR-USB which I use for variou
 I purchased a Hammond model [1455](https://www.hammfg.com/electronics/small-case/extruded/1455) "rounded rectangle" case measuring 120x78x27mm with aluminum end panels and plastic bezel.  I have seen these cases for sale at many places so they appear to be readily available.
 
 ## Printing the brackets
-I designed two brackes for the board to sit on.  There is a [left](models/Board+Adapter+v7+Left.3mf) and a [right](models/Board+Adapter+v7+Right.3mf) bracket.
+I designed two brackes for the board to sit on.  In the [models](tree/main/models) folder there is a left and right bracket.
 
 I 3D printed these with the following settings:
 * I used a reasonably well calibrated 3D printer so parts are dimensionally accurate
